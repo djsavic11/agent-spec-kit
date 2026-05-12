@@ -16,7 +16,7 @@ Read this file before doing anything else in this repository.
 | `spec/spec.md`   | What the system does. Behavior, rules, runtime constraints.      | Human          |
 | `spec/plan.md`   | How and when we build it. Phases, sequencing, build constraints. | Human          |
 | `spec/tasks.md`  | What to work on. Task queue (T-N) and decisions log (D-N).       | Agent          |
-| `spec/README.md` | Onboarding for humans. Not read by agents.                       | Human          |
+| `README.md`      | Onboarding for humans. Not read by agents.                       | Human          |
 
 ---
 

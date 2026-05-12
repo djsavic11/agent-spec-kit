@@ -9,7 +9,7 @@ Fill spec.md, plan.md, and tasks.md from scratch for a new project.
 
 ## Steps
 
-1. Read `AGENTS.md` and `spec/README.md` to understand the system conventions.
+1. Read `AGENTS.md` and `README.md` to understand the system conventions.
 2. Ask the user the following questions (one at a time, wait for each answer):
    - What does this system do? (one sentence)
    - Who uses it and how? (user, API caller, another system?)
