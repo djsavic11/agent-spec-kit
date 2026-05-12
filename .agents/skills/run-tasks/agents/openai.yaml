@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run Tasks"
+  short_description: "Run all queued spec tasks"
+  default_prompt: "Run all Todo tasks until the task queue is complete."
